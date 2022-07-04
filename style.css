@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    /* margin: 5% 10%; */
+    margin: 0;
 }
 
 #first-section {
@@ -116,7 +116,7 @@ p {
 }
 
 #Recipe {
-    margin: 40px 170px;
+    margin: 40px 170px 20px 170px;
 }
 
 .Subscriber {
@@ -128,10 +128,29 @@ p {
     border-radius: 20px;
     align-items: flex-start;
     justify-content: space-around;
-   margin:0 auto;
+    margin:0 auto;
 }
 
 .Subscriber h1 {
     font-weight: 700;
     font-size: 48px;
+}
+footer{
+    background: #0B0D17;
+    margin-top: 100px;
+    height: 250px;
+
+}
+footer p{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+footer h1{
+    padding-top: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+.grey-color{
+    color:#575757;
 }
