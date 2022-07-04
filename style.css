@@ -118,3 +118,20 @@ p {
 #Recipe {
     margin: 40px 170px;
 }
+
+.Subscriber {
+    display: flex;
+    width: 1239px;
+    height: 226px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    align-items: flex-start;
+    justify-content: space-around;
+   margin:0 auto;
+}
+
+.Subscriber h1 {
+    font-weight: 700;
+    font-size: 48px;
+}
